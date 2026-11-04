@@ -1,0 +1,12 @@
+{
+  "name": "مِزاج — قاعدة بيانات العطور",
+  "short_name": "مرجع العطور",
+  "description": "قاعدة بحث أوفلاين لأسعار العطور والخامات",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#2b2723",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
